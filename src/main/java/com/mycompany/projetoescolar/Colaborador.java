@@ -10,7 +10,7 @@ public class Colaborador {
     private String cargo;
     private double salario;
 
-    // CONSTRUTOR
+    
     public Colaborador(String nome, String cpf, int idade, String genero, String cargo, double salario) {
         this.nome = nome;
         this.cpf = cpf;
